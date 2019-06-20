@@ -19,3 +19,23 @@ npm install font awesome (bash 2)
 
 Depois instalar o bootstrap para o angular:
 
+-----
+criar projeto angular
+ng new "project name"
+
+-------------------------------
+em assets criar as pastas
+img
+scripts
+sass
+
+mudar o nome do styles pra o nome do arquivo e enviar par a pasta sass
+no angular.json, mudar o caminho do arquivo em styles (lembrar que há dois styles em .json)
+
+após as alterações, instalar o ng serve no bash1
+
+
+criar variáveis no arquivo app.compontent.ts e chamá-las no .html
+
+conferir
+boostrap --> documentation --> utilities --> flex
