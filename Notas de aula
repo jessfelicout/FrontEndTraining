@@ -1,0 +1,21 @@
+criar projeto angular
+ng new "project name"
+
+Abrir a pasta angular no VS code 
+
+No terminal do vscode, colocar o comando:
+ng serve
+
+install node-sass
+npm install node-sass
+
+mudar para sass o style no arquivo jason
+
+depois, ir em app e alterar o nome app component.css para scss
+No arquivo appcomponet.ts mudar onde tem css para scss
+
+como instalar o font awesome no angular:
+npm install font awesome (bash 2)
+
+Depois instalar o bootstrap para o angular:
+
